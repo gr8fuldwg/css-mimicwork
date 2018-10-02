@@ -19,3 +19,7 @@ body, ol {
 .octicon {
     fill: currentColor;
 }
+
+.hover a:hover {
+    color: hsla(0,0%,100%,0.75);
+}
