@@ -39,7 +39,7 @@
 
 .side-nav a {
     width: 100%;
-    display: inline-block;
+    display: flex;
     text-decoration: none;
 }
 
@@ -50,4 +50,10 @@
 
 .footer a {
     display: inline;
+}
+
+.icon {
+    width: 34px;
+    height: 34px;
+    margin-right: 1rem;
 }
