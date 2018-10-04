@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+   
 }
 
 /* body{
@@ -22,7 +23,7 @@
 .side-nav {
     background-color: darkgrey;
     width: 30vw;
-    height: 240vh;
+    /* height: 240vh; */
     line-height: 40px;
     font-family: Roboto, Arial, sans-serif;
     padding-left: .25rem;
@@ -36,7 +37,17 @@
     list-style-type: none;
 }
 
-.side-nav a:hover {
-    background-color: hsla(0,0%,100%,0.75);
+.side-nav a {
+    width: 100%;
+    display: inline-block;
+    text-decoration: none;
 }
 
+.side-nav a:hover {
+    background-color: hsla(0,0%,100%,0.75);
+    
+}
+
+.footer a {
+    display: inline;
+}
