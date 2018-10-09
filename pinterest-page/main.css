@@ -1,5 +1,8 @@
 body {
-    
+    background-image: url("background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title{
@@ -19,6 +22,7 @@ body {
     font-size: .8rem;
     margin-top: 1em;
     margin-bottom: 1em;
+    font-weight: bold;
 }
 
 .teardrop-container {
@@ -41,3 +45,12 @@ body {
     background-color: red;
 }
 
+.overlay{
+    height: 110vh;
+    width: 100vw;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:  -1;
+}
