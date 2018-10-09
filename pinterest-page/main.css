@@ -20,3 +20,24 @@ body {
     margin-top: 1em;
     margin-bottom: 1em;
 }
+
+.teardrop-container {
+    border: 0px solid black;
+    width: 15rem;
+    height: 15rem;
+    right: 17rem;
+    bottom: 7rem;
+    background-color: red;
+    color: white;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 20px;
+}
+
+.teardrop-container h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: red;
+}
+
