@@ -1,8 +1,9 @@
 body {
-    background-image: url("background.jpg");
+    background-image: url("bg9.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
+    back
 }
 
 .title{
@@ -30,7 +31,7 @@ body {
     width: 15rem;
     height: 15rem;
     right: 17rem;
-    bottom: 7rem;
+    bottom: 1rem;
     background-color: red;
     color: white;
     border-top-left-radius: 50%;
