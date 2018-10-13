@@ -1,10 +1,10 @@
-.navbar {   
-    opacity: 25%;
-    min-height: 100px;
+.navbar-transparent-25 {   
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .header {
     min-height: 80px;
+   
 }
 
 .hero {
@@ -14,3 +14,12 @@
     height: 600px;
 }
 
+.fab {
+    font-size: 340%;
+    color: rgb(65, 58, 58);
+}
+
+.navbar-nav {
+    font-size: 20px;
+    font-weight: 700;
+}
