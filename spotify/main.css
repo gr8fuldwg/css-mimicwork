@@ -1,3 +1,16 @@
 .navbar {   
     opacity: 25%;
+    min-height: 100px;
 }
+
+.header {
+    min-height: 80px;
+}
+
+.hero {
+    background-image: url("https://via.placeholder.com/350x150");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
