@@ -15,11 +15,22 @@
 }
 
 .fab {
-    font-size: 340%;
-    color: rgb(65, 58, 58);
+    font-size: 3rem;
+    color: white;
+    padding-left: 3rem;
 }
 
 .navbar-nav {
     font-size: 20px;
     font-weight: 700;
+}
+
+.h1 {
+    font-size: 6rem;
+    font-weight: 700;
+    
+}
+
+.hover  {
+    color: #1ED760;
 }
