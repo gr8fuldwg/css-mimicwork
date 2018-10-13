@@ -4,7 +4,7 @@
 
 .header {
     min-height: 80px;
-   
+    font-family: Circular, Helvetica, Arial, sans-serif;
 }
 
 .hero {
@@ -20,17 +20,29 @@
     padding-left: 3rem;
 }
 
+.btn {
+    margin-top: 3rem;
+    border-radius: 3rem;
+    width: 20vw;
+    height: 9vh;
+    font-family: Circular, Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
 .navbar-nav {
     font-size: 20px;
     font-weight: 700;
 }
 
+.navbar-nav:hover {
+    color: #1ED760;
+}
+
 .h1 {
     font-size: 6rem;
     font-weight: 700;
-    
 }
+ h5 {
+     margin-top: 2rem;
+ }
 
-.hover  {
-    color: #1ED760;
-}
