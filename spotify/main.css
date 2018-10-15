@@ -31,6 +31,17 @@
     font-size: 22px;
     font-weight: 500;
 }
+
+.nav-link {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    color: #1ED760;
+}
+
+
 .navbar-nav {
     font-size: 20px;
     font-weight: 700;
@@ -73,5 +84,11 @@
     list-style-type: none;
     background-color: black;
     color: white;
-    
+    font-family: Circular, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.social-icon {
+    background-color: dimgrey;
+    border-radius: 30px;
 }
