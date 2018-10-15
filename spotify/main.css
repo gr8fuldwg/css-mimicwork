@@ -22,7 +22,7 @@
     font-family: Circular, Helvetica, Arial, sans-serif;
 }
 
-.btn {
+/* .btn {
     margin-top: 3rem;
     border-radius: 3rem;
     width: 20vw;
@@ -30,6 +30,11 @@
     font-family: Circular, Helvetica, Arial, sans-serif;
     font-size: 22px;
     font-weight: 500;
+} */
+
+.footer {
+    list-style-type: none;
+    color: white;
 }
 
 .nav-link {
@@ -37,9 +42,9 @@
     font-weight: 700;
 }
 
-.nav-link:hover {
-    color: #1ED760;
-}
+.hover-green:hover { 
+    color: #1ED760; 
+} 
 
 
 .navbar-nav {
@@ -61,6 +66,12 @@
      margin-top: 1.5rem;
  }
 
+ h6  {
+     font-weight: 400;
+     font-size: 20px;
+ }
+
+
 
 .brand {
     color: white;
@@ -74,9 +85,8 @@
 .foot-nav {
     align-content: space-around;
     align-items: center;
-    font-size: ;
     line-height: 30rem;
-   
+    color: white;
     margin-left: 10px;
 }
 
