@@ -22,7 +22,7 @@
     font-family: Circular, Helvetica, Arial, sans-serif;
 }
 
-/* .btn {
+  .main-btn {
     margin-top: 3rem;
     border-radius: 3rem;
     width: 20vw;
@@ -30,7 +30,7 @@
     font-family: Circular, Helvetica, Arial, sans-serif;
     font-size: 22px;
     font-weight: 500;
-} */
+} 
 
 .footer {
     list-style-type: none;
@@ -43,7 +43,7 @@
 }
 
 .hover-green:hover { 
-    color: #1ED760; 
+    color: #1ED760 !important; 
 } 
 
 
@@ -52,9 +52,6 @@
     font-weight: 700;
 }
 
-.navbar-nav:hover {
-    color: #1ED760;
-}
 
 .h1 {
     font-size: 6rem;
