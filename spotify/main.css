@@ -2,6 +2,10 @@
     background-color: rgba(0, 0, 0, 0.6);
 }
 
+.navbar-fixed-top .navbar-collapse {
+    max-height: none;
+}
+
 .header {
     min-height: 60px;
     font-family: Circular, Helvetica, Arial, sans-serif;
@@ -9,11 +13,14 @@
 }
 
 .hero {
-    background-image: url("https://via.placeholder.com/350x150");
+    background-image: url("background-18.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
 }
+
+
+
 
   .faba {
     font-size: 3rem;
@@ -81,7 +88,7 @@ h5 {
 
 .foot-nav {
     align-content: space-around;
-    align-items: center;
+    
     line-height: 30rem;
     font-size: 14px;
     margin-left: 10px;
