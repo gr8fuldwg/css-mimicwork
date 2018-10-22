@@ -109,3 +109,7 @@ h5 {
 .social-icon i  {
     font-size: 2rem;
 }
+
+.social-bg {
+    background-color: green;
+}
