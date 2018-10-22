@@ -16,13 +16,10 @@
     background-image: url("background-18.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 1000px;
 }
 
-
-
-
-  .faba {
+.faba {
     font-size: 3rem;
     color: white;
     padding-left: 3rem;
@@ -88,12 +85,13 @@ h5 {
 
 .foot-nav {
     align-content: space-around;
-    
-    line-height: 30rem;
+    /* line-height: 30rem; */
     font-size: 14px;
+    padding-top: 10px !important;
     margin-left: 10px;
     list-style-type: none !important;
     color: rgba(138, 135, 135, 0.87);
+    display: inline-block;
 }
 
 .footer {
