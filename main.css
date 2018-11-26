@@ -1,0 +1,31 @@
+* {
+    background-color: darkslategray;
+}
+
+.header {
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-grow: inherit;
+}
+
+.main {
+    padding-left: 1em;
+}
+
+.h2 {
+    font-size: 2rem;
+}
+
+.links {
+    font-size: 2rem;
+    background-color: transparent;
+    color: chartreuse;
+}
+
+.links:hover {
+    
+    
+}
